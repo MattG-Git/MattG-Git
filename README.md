@@ -52,12 +52,10 @@
 
 ---
 
-<details>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mattg-git&show_icons=true&locale=en&layout=compact" alt="mattg-git" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mattg-git&" alt="mattg-git" /></p>
 
-</details>
 
 [website]: http://mattgoldhammer.com/
 [linkedin]: https://www.linkedin.com/feed/
