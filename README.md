@@ -3,7 +3,7 @@
 <!--
 **MattG-Git/MattG-Git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-### Hi there, I'm Matt [website] 👋
+### Hi there, I'm Matt 👋
 
 [![Website](https://img.shields.io/website?label=mattgoldhammer.com&style=for-the-badge&url=http://mattgoldhammer.com/)](http://mattgoldhammer.com/)
 
