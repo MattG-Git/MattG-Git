@@ -53,9 +53,9 @@
 ---
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mattg-git&show_icons=true&locale=en&layout=compact" alt="mattg-git" /></p>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=MattG-Git&show_icons=true&hide_border=true" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mattg-git&" alt="mattg-git" /></p>
 
 </details>
 
