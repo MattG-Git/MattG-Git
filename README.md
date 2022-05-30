@@ -12,7 +12,7 @@
 - 🔭 I'm working on the final touches to my first portfolio site!
 - 🌱 I’m currently refining the skills I learned in my bootcamp 🤣
 - 👯 I’m looking to continue growing and developing my coding skills 
-- 🥅 2021 Goals: Continue growing my knowledge base and begin a new career in web development
+- 🥅 2022 Goals: Continue growing my knowledge base and begin a new career in web development
 - ⚡ Fun fact: I love to travel and explore new places
 
 ### Connect with me:
