@@ -7,7 +7,7 @@
 
 [![Website](https://img.shields.io/website?label=mattgoldhammer.com&style=for-the-badge&url=http://mattgoldhammer.com/)](http://mattgoldhammer.com/)
 
-## I'm a Marketer, Aspiring Developer, and Dog Dad!!
+## I'm a Marketer, Developer, and Dog Dad!!
 
 - 🔭 I'm working on the final touches to my first portfolio site!
 - 🌱 I’m currently refining the skills I learned in my bootcamp 
